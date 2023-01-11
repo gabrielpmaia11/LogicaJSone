@@ -1,2 +1,2 @@
 # LogicaJSone
-Desafios de lógica de programação front end 
+Desafios de lógica de programação front end agora
